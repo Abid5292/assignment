@@ -1,6 +1,6 @@
 nav {
-    background-color: #000000;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #692525;
+    box-shadow: 0 4px 8px rgba(5, 5, 5, 0.2);
     overflow: hidden;
   }
   nav ul {
@@ -28,5 +28,5 @@ nav {
     background-color: #555;
   }
   .home {
-    color: #0bc788;
+    color: #0c7bc5;
   }
