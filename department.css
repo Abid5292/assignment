@@ -1,16 +1,14 @@
+img{
+    width: 350px;
+    height: 350px;
+    border: 50px greenyellow;
+    border-radius: 10px;
 
-html, body {
-  margin: 0;
-  /* height: 100%; */
 }
 
-.center-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  /* height: 100vh; */
-  text-align: center;
-}
+
+
+
 
 
 nav {
@@ -42,8 +40,12 @@ nav {
   nav ul li a:hover {
     background-color: #555;
   }
-  .home {
+  /* .home {
     color: #0c7bc5;
+  } */
+
+  .department {
+    color:  #0c7bc5;
   }
 
   .text {

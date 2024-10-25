@@ -1,17 +1,10 @@
+img{
+    width: 500px;
+    height: 500px;
+    border: 50px greenyellow;
+    border-radius: 10px;
 
-html, body {
-  margin: 0;
-  /* height: 100%; */
 }
-
-.center-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  /* height: 100vh; */
-  text-align: center;
-}
-
 
 nav {
     background-color: #692525;
@@ -42,8 +35,8 @@ nav {
   nav ul li a:hover {
     background-color: #555;
   }
-  .home {
-    color: #0c7bc5;
+  .campus_life {
+    color:  #0c7bc5;
   }
 
   .text {

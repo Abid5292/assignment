@@ -1,15 +1,9 @@
+img{
+    width: 450px;
+    height: 450px;
+    border: 50px greenyellow;
+    border-radius: 10px;
 
-html, body {
-  margin: 0;
-  /* height: 100%; */
-}
-
-.center-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  /* height: 100vh; */
-  text-align: center;
 }
 
 
@@ -42,8 +36,9 @@ nav {
   nav ul li a:hover {
     background-color: #555;
   }
-  .home {
-    color: #0c7bc5;
+
+  .about {
+    color:  #0c7bc5;
   }
 
   .text {
